@@ -521,7 +521,7 @@ namespace KoreanAIO.Utilities
                 {"Misc", "杂项"},
                 /* LastHit */
                 {"Never", "从不"},
-                {"Smartly", "中毒的"},
+                {"Smartly", "智能"},
                 {"Always", "一直"},
                 /* Checkbox, sliders and others */
                 {"MinimumManaPercent", "最低能量使用"},
@@ -633,13 +633,13 @@ namespace KoreanAIO.Utilities
                 {"Misc", "雜項"},
                 /* LastHit */
                 {"Never", "從不"},
-                {"Smartly", "中毒的"},
+                {"Smartly", "智能"},
                 {"Always", "一直"},
                 /* Checkbox, sliders and others */
                 {"MinimumManaPercent", "最低能量使用"},
                 {"DisableUnderEnemyTurret", "在敵方塔下遮罩"},
                 {"IfKillable", "如果可擊殺"},
-                {"IfNeeded", "如果需要d"},
+                {"IfNeeded", "如果需要"},
                 {"UseIgnite", "使用點燃搶頭"},
                 {"UseIgnite.Killable", "使用點燃如果可擊殺"},
                 {"UseSmite", "使用懲戒搶頭"},
